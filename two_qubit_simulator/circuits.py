@@ -1,5 +1,6 @@
 """
 Contains the QuantumCircuit class
+boom.
 """
 
 class QuantumCircuit(object): # pylint: disable=useless-object-inheritance
